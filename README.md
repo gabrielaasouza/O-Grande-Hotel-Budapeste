@@ -6,8 +6,8 @@ Procurando tirar férias, mas não sabe onde ficar? O Grande Hotel Budapeste nã
 </div>
 
 # ⚙ Funcionalidades 
-Para garantir o melhor, utilizamos uma plataforma completa que garante
-1) Reserva de Quartos 
+Para garantir o melhor, utilizamos uma plataforma completa que garante:
+1) Reserva de Quartos
 2) Sistema de Cadastro de Hóspedes 
 3) Abastecimento de Carros
 4) Eventos 
