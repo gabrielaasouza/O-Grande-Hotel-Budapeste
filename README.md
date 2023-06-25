@@ -12,15 +12,15 @@ Então, não perca mais tempo procurando. Reserve suas férias no Grande Hotel B
 # ⚙ Funcionalidades 
 Para garantir o melhor serviço aos nossos clientes, utilizamos uma plataforma completa que abrange diversas funcionalidades:
 
-1) Reserva de Quartos: Nossa plataforma permite que os funcionários do hotel registrem as reservas de quartos dos hóspedes. Isso facilita o gerenciamento e a organização das acomodações disponíveis, garantindo que os quartos sejam alocados de forma eficiente.
+1) **Reserva de Quartos**: Nossa plataforma permite que os funcionários do hotel registrem as reservas de quartos dos hóspedes. Isso facilita o gerenciamento e a organização das acomodações disponíveis, garantindo que os quartos sejam alocados de forma eficiente.
 
-2) Sistema de Cadastro de Hóspedes: Com o sistema de cadastro de hóspedes, podemos registrar informações importantes sobre nossos clientes, como nomes e idades. Além disso, nosso sistema é capaz de calcular o valor da diária do hotel considerando descontos especiais de acordo com a idade dos hóspedes.
+2) **Sistema de Cadastro de Hóspedes**: Com o sistema de cadastro de hóspedes, podemos registrar informações importantes sobre nossos clientes, como nomes e idades. Além disso, nosso sistema é capaz de calcular o valor da diária do hotel considerando descontos especiais de acordo com a idade dos hóspedes.
 
-3) Abastecimento de Carros: Para otimizar o abastecimento dos carros do hotel, nossa plataforma realiza cálculos para determinar o combustível mais atraente e identificar o posto de combustível mais barato. Isso nos ajuda a controlar os custos de abastecimento e garantir uma gestão eficiente da frota de veículos do hotel.
+3) **Abastecimento de Carros**: Para otimizar o abastecimento dos carros do hotel, nossa plataforma realiza cálculos para determinar o combustível mais atraente e identificar o posto de combustível mais barato. Isso nos ajuda a controlar os custos de abastecimento e garantir uma gestão eficiente da frota de veículos do hotel.
 
-4)Eventos: Nosso sistema abrange a organização e o gerenciamento de eventos realizados no hotel. Seja uma conferência, casamento, festa ou reunião corporativa, nossa plataforma oferece recursos para facilitar o planejamento, a reserva de espaços e o acompanhamento dos eventos.
+4) **Eventos**: Nosso sistema abrange a organização e o gerenciamento de eventos realizados no hotel. Seja uma conferência, casamento, festa ou reunião corporativa, nossa plataforma oferece recursos para facilitar o planejamento, a reserva de espaços e o acompanhamento dos eventos.
 
-5) Manutenção de Ar Condicionados: Através da nossa plataforma, é possível agendar e acompanhar as atividades de manutenção dos sistemas de ar condicionado do hotel. Isso nos permite garantir o conforto e a qualidade do ambiente para nossos hóspedes, além de prevenir problemas relacionados ao ar condicionado.
+5) **Manutenção de Ar Condicionados**: Através da nossa plataforma, é possível agendar e acompanhar as atividades de manutenção dos sistemas de ar condicionado do hotel. Isso nos permite garantir o conforto e a qualidade do ambiente para nossos hóspedes, além de prevenir problemas relacionados ao ar condicionado.
 
 Com essa plataforma completa, buscamos oferecer um serviço de qualidade aos nossos clientes, abrangendo desde o processo de reserva de quartos até a manutenção das instalações do hotel. Nosso objetivo é proporcionar uma experiência positiva e satisfatória a todos os hóspedes que escolhem nosso estabelecimento.
 
